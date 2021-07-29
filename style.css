@@ -25,6 +25,7 @@ body{
 }
 
 .temperature-section{
+    margin-top: 20px;
     flex-direction: column;
 }
 
